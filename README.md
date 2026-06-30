@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hi, I'm Sameer Shaikh  <br><br>🎓 BCA Student | 💻 Aspiring Software Developer  <br><br>🚀 Currently learning Java (DSA) & MERN Stack  <br>💡 Passionate about building real-world projects and solving problems  <br><br>🛠️ Tech Stack:<br>- Languages: Java, JavaScript  <br>- Frontend: React.js, HTML, CSS  <br>- Backend: Node.js, Express.js  <br>- Database: MongoDB  <br><br>📚 Currently focusing on:<br>- Data Structures & Algorithms  <br>- Full Stack Development  <br>- Writing clean & efficient code  <br><br>🎯 Goal: To become a skilled developer and crack top tech companies  <br><br>📫 Connect with me:<br>- LinkedIn: https://www.linkedin.com/in/sameer-shaikh-0a71022b2  <br><br>⚡ Fun Fact: I learn better by building projects than just watching tutorials 😄
+ Hi, I'm Sameer Shaikh  <br><br> BCA Student |  Aspiring Software Developer  <br><br> Currently learning Java (DSA) & MERN Stack  <br>💡 Passionate about building real-world projects and solving problems  <br><br>🛠️ Tech Stack:<br>- Languages: Java, JavaScript  <br>- Frontend: React.js, HTML, CSS  <br>- Backend: Node.js, Express.js  <br>- Database: MongoDB  <br><br>📚 Currently focusing on:<br>- Data Structures & Algorithms  <br>- Full Stack Development  <br>- Writing clean & efficient code  <br><br>🎯 Goal: To become a skilled developer and crack top tech companies  <br><br>🌐 Connect With Me
+
+- 💼 Portfolio: https://sameershaikh-portfolio.vercel.app/
+- 💼 LinkedIn: https://linkedin.com/in/sameer-shaikh-0a71022b2
+- 💻 GitHub: https://github.com/SAm22-22
+- 📧 Email: sameershaikh112266@gmail.com
 
 
 ## 🌐 Socials:
